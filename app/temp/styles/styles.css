@@ -351,6 +351,8 @@ img {
     height: auto;
 }
 
+/* 0 Beats */
+
 .large-hero {
 
     position: relative;
@@ -369,7 +371,7 @@ img {
 
 .large-hero__title {
         font-weight: 300;
-        color: #2f552a;
+        color: #083A75;
         font-size: 4.8rem;
         margin: 0;
     }
@@ -392,7 +394,7 @@ img {
     }
 
 .btn {
-    background-color: #2f552a;
+    background-color: #083A75;
     color: #fff;
     text-decoration: none;
     padding: .75rem 1.2rem;
