@@ -880,6 +880,10 @@ a {
             background-image: url('/assets/images/sprites/svg/sprite-d675eadb.svg');
         }
 
+.no-svg.icon {
+            background-image: url('/assets/images/sprites/svg/sprite-d675eadb.png'); 
+        }
+
 .icon--clear-view-escapes {
         width: 142.4px;
         height: 59.53px;
